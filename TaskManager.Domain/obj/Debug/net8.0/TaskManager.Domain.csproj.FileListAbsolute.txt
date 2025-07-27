@@ -1,0 +1,11 @@
+/home/an0n/PracBruh/TaskManager.Domain/bin/Debug/net8.0/TaskManager.Domain.deps.json
+/home/an0n/PracBruh/TaskManager.Domain/bin/Debug/net8.0/TaskManager.Domain.dll
+/home/an0n/PracBruh/TaskManager.Domain/bin/Debug/net8.0/TaskManager.Domain.pdb
+/home/an0n/PracBruh/TaskManager.Domain/obj/Debug/net8.0/TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/an0n/PracBruh/TaskManager.Domain/obj/Debug/net8.0/TaskManager.Domain.AssemblyInfoInputs.cache
+/home/an0n/PracBruh/TaskManager.Domain/obj/Debug/net8.0/TaskManager.Domain.AssemblyInfo.cs
+/home/an0n/PracBruh/TaskManager.Domain/obj/Debug/net8.0/TaskManager.Domain.csproj.CoreCompileInputs.cache
+/home/an0n/PracBruh/TaskManager.Domain/obj/Debug/net8.0/TaskManager.Domain.dll
+/home/an0n/PracBruh/TaskManager.Domain/obj/Debug/net8.0/refint/TaskManager.Domain.dll
+/home/an0n/PracBruh/TaskManager.Domain/obj/Debug/net8.0/TaskManager.Domain.pdb
+/home/an0n/PracBruh/TaskManager.Domain/obj/Debug/net8.0/ref/TaskManager.Domain.dll
